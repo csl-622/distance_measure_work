@@ -1,0 +1,1225 @@
+tie-ins AND william barton 756000
+tie-ins AND tie-in 8610000
+tie-ins AND james white (author) 7350000
+tie-ins AND william s. burroughs 257000
+tie-ins AND wilene shaw 2210
+tie-ins AND edward de roo 141000
+tie-ins AND robert bloch 263000
+tie-ins AND louis l'amour 609000
+tie-ins AND harry whittington 47900
+tie-ins AND juvenile delinquent 286000
+tie-ins AND harry whittington (author) 39700
+tie-ins AND strange but true 9320000
+tie-ins AND charter communications 1520000
+tie-ins AND avenue of the americas 6920000
+tie-ins AND hippodrome building 60300
+tie-ins AND cent (currency) 1360000
+tie-ins AND william barton (writer) 603000
+tie-ins AND margaret howe (author) 198000
+tie-ins AND dos-à-dos binding#tête-bêche 3
+tie-ins AND peter nicholls (writer) 160000
+tie-ins AND charter company 2820000
+tie-ins AND book 64100000
+tie-ins AND united states 92000000
+tie-ins AND norman saunders 322000
+tie-ins AND novelizations 84100
+tie-ins AND são tomé and príncipe 3150000
+tie-ins AND equatorial guinea 2610000
+tie-ins AND cape verde 2620000
+tie-ins AND latium 43900
+tie-ins AND goa 1940000
+tie-ins AND mozambique 3350000
+tie-ins AND macau 2260000
+tie-ins AND são paulo 2000000
+tie-ins AND daman, daman and diu 235000
+tie-ins AND lope de vega 71300
+tie-ins AND diu, india 321000
+tie-ins AND olavo bilac 8450
+tie-ins AND portugal 10900000
+tie-ins AND brazil 11300000
+tie-ins AND guinea-bissau 2400000
+tie-ins AND miguel de cervantes 248000
+tie-ins AND museum of the portuguese language 951000
+tie-ins AND western hemisphere 1040000
+tie-ins AND luís vaz de camões 13000
+tie-ins AND east timor 1340000
+tie-ins AND southern hemisphere 658000
+tie-ins AND romance language 4360000
+tie-ins AND angola 3450000
+tie-ins AND imprint (trade name) 1070000
+william barton AND tie-in 666000
+william barton AND james white (author) 1380000
+william barton AND william s. burroughs 227000
+william barton AND wilene shaw 20000
+william barton AND edward de roo 81600
+william barton AND robert bloch 187000
+william barton AND louis l'amour 221000
+william barton AND harry whittington 55500
+william barton AND juvenile delinquent 62600
+william barton AND harry whittington (author) 29300
+william barton AND strange but true 743000
+william barton AND charter communications 254000
+william barton AND avenue of the americas 542000
+william barton AND hippodrome building 23000
+william barton AND cent (currency) 92000
+william barton AND william barton (writer) 1630000
+william barton AND margaret howe (author) 151000
+william barton AND dos-à-dos binding#tête-bêche 0
+william barton AND peter nicholls (writer) 118000
+william barton AND charter company 358000
+william barton AND book 2020000
+william barton AND united states 1750000
+william barton AND norman saunders 398000
+william barton AND novelizations 7220
+william barton AND são tomé and príncipe 105000
+william barton AND equatorial guinea 49600
+william barton AND cape verde 218000
+william barton AND latium 6090
+william barton AND goa 50200
+william barton AND mozambique 77800
+william barton AND macau 52000
+william barton AND são paulo 310000
+william barton AND daman, daman and diu 3430
+william barton AND lope de vega 36300
+william barton AND diu, india 19100
+william barton AND olavo bilac 10400
+william barton AND portugal 467000
+william barton AND brazil 526000
+william barton AND guinea-bissau 43200
+william barton AND miguel de cervantes 142000
+william barton AND museum of the portuguese language 159000
+william barton AND western hemisphere 78400
+william barton AND luís vaz de camões 10900
+william barton AND east timor 53300
+william barton AND southern hemisphere 72200
+william barton AND romance language 445000
+william barton AND angola 103000
+william barton AND imprint (trade name) 73800
+tie-in AND james white (author) 5490000
+tie-in AND william s. burroughs 318000
+tie-in AND wilene shaw 368
+tie-in AND edward de roo 155000
+tie-in AND robert bloch 272000
+tie-in AND louis l'amour 626000
+tie-in AND harry whittington 57700
+tie-in AND juvenile delinquent 374000
+tie-in AND harry whittington (author) 33000
+tie-in AND strange but true 5950000
+tie-in AND charter communications 1520000
+tie-in AND avenue of the americas 7040000
+tie-in AND hippodrome building 65300
+tie-in AND cent (currency) 1240000
+tie-in AND william barton (writer) 730000
+tie-in AND margaret howe (author) 224000
+tie-in AND dos-à-dos binding#tête-bêche 1
+tie-in AND peter nicholls (writer) 197000
+tie-in AND charter company 2080000
+tie-in AND book 64800000
+tie-in AND united states 126000000
+tie-in AND norman saunders 416000
+tie-in AND novelizations 12300
+tie-in AND são tomé and príncipe 12800000
+tie-in AND equatorial guinea 2460000
+tie-in AND cape verde 2780000
+tie-in AND latium 44600
+tie-in AND goa 2360000
+tie-in AND mozambique 2660000
+tie-in AND macau 2320000
+tie-in AND são paulo 4070000
+tie-in AND daman, daman and diu 215000
+tie-in AND lope de vega 86000
+tie-in AND diu, india 319000
+tie-in AND olavo bilac 10200
+tie-in AND portugal 11400000
+tie-in AND brazil 13200000
+tie-in AND guinea-bissau 2280000
+tie-in AND miguel de cervantes 296000
+tie-in AND museum of the portuguese language 436000
+tie-in AND western hemisphere 754000
+tie-in AND luís vaz de camões 14600
+tie-in AND east timor 1230000
+tie-in AND southern hemisphere 684000
+tie-in AND romance language 4250000
+tie-in AND angola 3570000
+tie-in AND imprint (trade name) 405000
+james white (author) AND william s. burroughs 355000
+james white (author) AND wilene shaw 3030
+james white (author) AND edward de roo 87600
+james white (author) AND robert bloch 247000
+james white (author) AND louis l'amour 351000
+james white (author) AND harry whittington 57000
+james white (author) AND juvenile delinquent 211000
+james white (author) AND harry whittington (author) 55600
+james white (author) AND strange but true 5540000
+james white (author) AND charter communications 910000
+james white (author) AND avenue of the americas 3340000
+james white (author) AND hippodrome building 47000
+james white (author) AND cent (currency) 569000
+james white (author) AND william barton (writer) 872000
+james white (author) AND margaret howe (author) 367000
+james white (author) AND dos-à-dos binding#tête-bêche 1
+james white (author) AND peter nicholls (writer) 196000
+james white (author) AND charter company 1320000
+james white (author) AND book 18900000
+james white (author) AND united states 9110000
+james white (author) AND norman saunders 421000
+james white (author) AND novelizations 44000
+james white (author) AND são tomé and príncipe 613000
+james white (author) AND equatorial guinea 138000
+james white (author) AND cape verde 352000
+james white (author) AND latium 13800
+james white (author) AND goa 236000
+james white (author) AND mozambique 330000
+james white (author) AND macau 280000
+james white (author) AND são paulo 1160000
+james white (author) AND daman, daman and diu 10900
+james white (author) AND lope de vega 37200
+james white (author) AND diu, india 39300
+james white (author) AND olavo bilac 4520
+james white (author) AND portugal 1830000
+james white (author) AND brazil 2730000
+james white (author) AND guinea-bissau 88200
+james white (author) AND miguel de cervantes 174000
+james white (author) AND museum of the portuguese language 820000
+james white (author) AND western hemisphere 781000
+james white (author) AND luís vaz de camões 28500
+james white (author) AND east timor 115000
+james white (author) AND southern hemisphere 502000
+james white (author) AND romance language 2200000
+james white (author) AND angola 391000
+james white (author) AND imprint (trade name) 502000
+william s. burroughs AND wilene shaw 6000
+william s. burroughs AND edward de roo 36400
+william s. burroughs AND robert bloch 71400
+william s. burroughs AND louis l'amour 67900
+william s. burroughs AND harry whittington 21000
+william s. burroughs AND juvenile delinquent 45800
+william s. burroughs AND harry whittington (author) 13200
+william s. burroughs AND strange but true 317000
+william s. burroughs AND charter communications 52900
+william s. burroughs AND avenue of the americas 170000
+william s. burroughs AND hippodrome building 5250
+william s. burroughs AND cent (currency) 24400
+william s. burroughs AND william barton (writer) 103000
+william s. burroughs AND margaret howe (author) 55500
+william s. burroughs AND dos-à-dos binding#tête-bêche 129
+william s. burroughs AND peter nicholls (writer) 30300
+william s. burroughs AND charter company 66900
+william s. burroughs AND book 818000
+william s. burroughs AND united states 547000
+william s. burroughs AND norman saunders 106000
+william s. burroughs AND novelizations 203000
+william s. burroughs AND são tomé and príncipe 53200
+william s. burroughs AND equatorial guinea 11200
+william s. burroughs AND cape verde 72800
+william s. burroughs AND latium 1960
+william s. burroughs AND goa 22100
+william s. burroughs AND mozambique 28100
+william s. burroughs AND macau 24300
+william s. burroughs AND são paulo 179000
+william s. burroughs AND daman, daman and diu 1060
+william s. burroughs AND lope de vega 29200
+william s. burroughs AND diu, india 4390
+william s. burroughs AND olavo bilac 12700
+william s. burroughs AND portugal 182000
+william s. burroughs AND brazil 206000
+william s. burroughs AND guinea-bissau 17500
+william s. burroughs AND miguel de cervantes 79300
+william s. burroughs AND museum of the portuguese language 50300
+william s. burroughs AND western hemisphere 25800
+william s. burroughs AND luís vaz de camões 13800
+william s. burroughs AND east timor 18300
+william s. burroughs AND southern hemisphere 24300
+william s. burroughs AND romance language 130000
+william s. burroughs AND angola 39700
+william s. burroughs AND imprint (trade name) 28900
+wilene shaw AND edward de roo 430
+wilene shaw AND robert bloch 2860
+wilene shaw AND louis l'amour 2490
+wilene shaw AND harry whittington 5320
+wilene shaw AND juvenile delinquent 530
+wilene shaw AND harry whittington (author) 1750
+wilene shaw AND strange but true 2930
+wilene shaw AND charter communications 2730
+wilene shaw AND avenue of the americas 4840
+wilene shaw AND hippodrome building 9
+wilene shaw AND cent (currency) 5900
+wilene shaw AND william barton (writer) 3310
+wilene shaw AND margaret howe (author) 1300
+wilene shaw AND dos-à-dos binding#tête-bêche 0
+wilene shaw AND peter nicholls (writer) 755
+wilene shaw AND charter company 5220
+wilene shaw AND book 682
+wilene shaw AND united states 402
+wilene shaw AND norman saunders 6610
+wilene shaw AND novelizations 654
+wilene shaw AND são tomé and príncipe 554
+wilene shaw AND equatorial guinea 123
+wilene shaw AND cape verde 5430
+wilene shaw AND latium 9
+wilene shaw AND goa 0
+wilene shaw AND mozambique 2
+wilene shaw AND macau 0
+wilene shaw AND são paulo 6450
+wilene shaw AND daman, daman and diu 3
+wilene shaw AND lope de vega 602
+wilene shaw AND diu, india 7
+wilene shaw AND olavo bilac 2
+wilene shaw AND portugal 10
+wilene shaw AND brazil 105
+wilene shaw AND guinea-bissau 114
+wilene shaw AND miguel de cervantes 3190
+wilene shaw AND museum of the portuguese language 479
+wilene shaw AND western hemisphere 353
+wilene shaw AND luís vaz de camões 2
+wilene shaw AND east timor 510
+wilene shaw AND southern hemisphere 250
+wilene shaw AND romance language 100
+wilene shaw AND angola 2
+wilene shaw AND imprint (trade name) 521
+edward de roo AND robert bloch 32300
+edward de roo AND louis l'amour 61400
+edward de roo AND harry whittington 6200
+edward de roo AND juvenile delinquent 33100
+edward de roo AND harry whittington (author) 5420
+edward de roo AND strange but true 120000
+edward de roo AND charter communications 40400
+edward de roo AND avenue of the americas 103000
+edward de roo AND hippodrome building 4410
+edward de roo AND cent (currency) 26600
+edward de roo AND william barton (writer) 55700
+edward de roo AND margaret howe (author) 20900
+edward de roo AND dos-à-dos binding#tête-bêche 0
+edward de roo AND peter nicholls (writer) 14800
+edward de roo AND charter company 54300
+edward de roo AND book 299000
+edward de roo AND united states 455000
+edward de roo AND norman saunders 53600
+edward de roo AND novelizations 54900
+edward de roo AND são tomé and príncipe 1860000
+edward de roo AND equatorial guinea 48300
+edward de roo AND cape verde 92100
+edward de roo AND latium 3490
+edward de roo AND goa 48500
+edward de roo AND mozambique 104000
+edward de roo AND macau 129000
+edward de roo AND são paulo 94500
+edward de roo AND daman, daman and diu 12600
+edward de roo AND lope de vega 32300
+edward de roo AND diu, india 16800
+edward de roo AND olavo bilac 10500
+edward de roo AND portugal 345000
+edward de roo AND brazil 224000
+edward de roo AND guinea-bissau 36000
+edward de roo AND miguel de cervantes 93900
+edward de roo AND museum of the portuguese language 41300
+edward de roo AND western hemisphere 21700
+edward de roo AND luís vaz de camões 26200
+edward de roo AND east timor 71300
+edward de roo AND southern hemisphere 21500
+edward de roo AND romance language 61400
+edward de roo AND angola 104000
+edward de roo AND imprint (trade name) 15900
+robert bloch AND louis l'amour 182000
+robert bloch AND harry whittington 12300
+robert bloch AND juvenile delinquent 33500
+robert bloch AND harry whittington (author) 9390
+robert bloch AND strange but true 152000
+robert bloch AND charter communications 42100
+robert bloch AND avenue of the americas 141000
+robert bloch AND hippodrome building 14200
+robert bloch AND cent (currency) 33500
+robert bloch AND william barton (writer) 96800
+robert bloch AND margaret howe (author) 43900
+robert bloch AND dos-à-dos binding#tête-bêche 0
+robert bloch AND peter nicholls (writer) 45500
+robert bloch AND charter company 74800
+robert bloch AND book 781000
+robert bloch AND united states 471000
+robert bloch AND norman saunders 87700
+robert bloch AND novelizations 4130
+robert bloch AND são tomé and príncipe 125000
+robert bloch AND equatorial guinea 22700
+robert bloch AND cape verde 60700
+robert bloch AND latium 5120
+robert bloch AND goa 26100
+robert bloch AND mozambique 45000
+robert bloch AND macau 17200
+robert bloch AND são paulo 314000
+robert bloch AND daman, daman and diu 1570
+robert bloch AND lope de vega 30500
+robert bloch AND diu, india 17000
+robert bloch AND olavo bilac 15400
+robert bloch AND portugal 254000
+robert bloch AND brazil 204000
+robert bloch AND guinea-bissau 19800
+robert bloch AND miguel de cervantes 87800
+robert bloch AND museum of the portuguese language 67700
+robert bloch AND western hemisphere 43300
+robert bloch AND luís vaz de camões 15100
+robert bloch AND east timor 12400
+robert bloch AND southern hemisphere 34200
+robert bloch AND romance language 118000
+robert bloch AND angola 61600
+robert bloch AND imprint (trade name) 25800
+louis l'amour AND harry whittington 13100
+louis l'amour AND juvenile delinquent 32600
+louis l'amour AND harry whittington (author) 12700
+louis l'amour AND strange but true 486000
+louis l'amour AND charter communications 103000
+louis l'amour AND avenue of the americas 299000
+louis l'amour AND hippodrome building 31100
+louis l'amour AND cent (currency) 94200
+louis l'amour AND william barton (writer) 75700
+louis l'amour AND margaret howe (author) 59700
+louis l'amour AND dos-à-dos binding#tête-bêche 0
+louis l'amour AND peter nicholls (writer) 36100
+louis l'amour AND charter company 113000
+louis l'amour AND book 1790000
+louis l'amour AND united states 745000
+louis l'amour AND norman saunders 101000
+louis l'amour AND novelizations 6410
+louis l'amour AND são tomé and príncipe 615000
+louis l'amour AND equatorial guinea 26800
+louis l'amour AND cape verde 196000
+louis l'amour AND latium 10400
+louis l'amour AND goa 99900
+louis l'amour AND mozambique 88000
+louis l'amour AND macau 35500
+louis l'amour AND são paulo 541000
+louis l'amour AND daman, daman and diu 3380
+louis l'amour AND lope de vega 42900
+louis l'amour AND diu, india 25600
+louis l'amour AND olavo bilac 13000
+louis l'amour AND portugal 686000
+louis l'amour AND brazil 430000
+louis l'amour AND guinea-bissau 28200
+louis l'amour AND miguel de cervantes 82900
+louis l'amour AND museum of the portuguese language 125000
+louis l'amour AND western hemisphere 46000
+louis l'amour AND luís vaz de camões 16500
+louis l'amour AND east timor 23200
+louis l'amour AND southern hemisphere 37000
+louis l'amour AND romance language 367000
+louis l'amour AND angola 125000
+louis l'amour AND imprint (trade name) 33800
+harry whittington AND juvenile delinquent 6580
+harry whittington AND harry whittington (author) 116000
+harry whittington AND strange but true 42900
+harry whittington AND charter communications 15700
+harry whittington AND avenue of the americas 53400
+harry whittington AND hippodrome building 2310
+harry whittington AND cent (currency) 10300
+harry whittington AND william barton (writer) 60300
+harry whittington AND margaret howe (author) 19000
+harry whittington AND dos-à-dos binding#tête-bêche 6
+harry whittington AND peter nicholls (writer) 18600
+harry whittington AND charter company 25100
+harry whittington AND book 103000
+harry whittington AND united states 80200
+harry whittington AND norman saunders 42700
+harry whittington AND novelizations 1380
+harry whittington AND são tomé and príncipe 10200
+harry whittington AND equatorial guinea 3420
+harry whittington AND cape verde 12900
+harry whittington AND latium 556
+harry whittington AND goa 5820
+harry whittington AND mozambique 5860
+harry whittington AND macau 5950
+harry whittington AND são paulo 28700
+harry whittington AND daman, daman and diu 351
+harry whittington AND lope de vega 5770
+harry whittington AND diu, india 1350
+harry whittington AND olavo bilac 10
+harry whittington AND portugal 42200
+harry whittington AND brazil 47200
+harry whittington AND guinea-bissau 2740
+harry whittington AND miguel de cervantes 13700
+harry whittington AND museum of the portuguese language 17700
+harry whittington AND western hemisphere 8120
+harry whittington AND luís vaz de camões 303
+harry whittington AND east timor 5290
+harry whittington AND southern hemisphere 6520
+harry whittington AND romance language 27400
+harry whittington AND angola 12300
+harry whittington AND imprint (trade name) 6850
+juvenile delinquent AND harry whittington (author) 14000
+juvenile delinquent AND strange but true 112000
+juvenile delinquent AND charter communications 86800
+juvenile delinquent AND avenue of the americas 130000
+juvenile delinquent AND hippodrome building 12100
+juvenile delinquent AND cent (currency) 52800
+juvenile delinquent AND william barton (writer) 178000
+juvenile delinquent AND margaret howe (author) 62600
+juvenile delinquent AND dos-à-dos binding#tête-bêche 0
+juvenile delinquent AND peter nicholls (writer) 49500
+juvenile delinquent AND charter company 89200
+juvenile delinquent AND book 365000
+juvenile delinquent AND united states 1220000
+juvenile delinquent AND norman saunders 40900
+juvenile delinquent AND novelizations 75400
+juvenile delinquent AND são tomé and príncipe 69700
+juvenile delinquent AND equatorial guinea 28400
+juvenile delinquent AND cape verde 33500
+juvenile delinquent AND latium 808
+juvenile delinquent AND goa 14900
+juvenile delinquent AND mozambique 34200
+juvenile delinquent AND macau 11400
+juvenile delinquent AND são paulo 50700
+juvenile delinquent AND daman, daman and diu 4350
+juvenile delinquent AND lope de vega 8400
+juvenile delinquent AND diu, india 10900
+juvenile delinquent AND olavo bilac 255
+juvenile delinquent AND portugal 197000
+juvenile delinquent AND brazil 130000
+juvenile delinquent AND guinea-bissau 7930
+juvenile delinquent AND miguel de cervantes 41600
+juvenile delinquent AND museum of the portuguese language 47000
+juvenile delinquent AND western hemisphere 41700
+juvenile delinquent AND luís vaz de camões 1370
+juvenile delinquent AND east timor 7890
+juvenile delinquent AND southern hemisphere 36100
+juvenile delinquent AND romance language 129000
+juvenile delinquent AND angola 40200
+juvenile delinquent AND imprint (trade name) 23800
+harry whittington (author) AND strange but true 33000
+harry whittington (author) AND charter communications 13200
+harry whittington (author) AND avenue of the americas 50300
+harry whittington (author) AND hippodrome building 2650
+harry whittington (author) AND cent (currency) 8340
+harry whittington (author) AND william barton (writer) 48400
+harry whittington (author) AND margaret howe (author) 18900
+harry whittington (author) AND dos-à-dos binding#tête-bêche 31
+harry whittington (author) AND peter nicholls (writer) 10800
+harry whittington (author) AND charter company 15600
+harry whittington (author) AND book 62900
+harry whittington (author) AND united states 41200
+harry whittington (author) AND norman saunders 30500
+harry whittington (author) AND novelizations 26300
+harry whittington (author) AND são tomé and príncipe 8430
+harry whittington (author) AND equatorial guinea 2320
+harry whittington (author) AND cape verde 5260
+harry whittington (author) AND latium 483
+harry whittington (author) AND goa 3830
+harry whittington (author) AND mozambique 3720
+harry whittington (author) AND macau 2370
+harry whittington (author) AND são paulo 39200
+harry whittington (author) AND daman, daman and diu 348
+harry whittington (author) AND lope de vega 3010
+harry whittington (author) AND diu, india 1530
+harry whittington (author) AND olavo bilac 68
+harry whittington (author) AND portugal 24900
+harry whittington (author) AND brazil 26100
+harry whittington (author) AND guinea-bissau 1690
+harry whittington (author) AND miguel de cervantes 7610
+harry whittington (author) AND museum of the portuguese language 17500
+harry whittington (author) AND western hemisphere 32200
+harry whittington (author) AND luís vaz de camões 306
+harry whittington (author) AND east timor 2670
+harry whittington (author) AND southern hemisphere 31100
+harry whittington (author) AND romance language 20600
+harry whittington (author) AND angola 4550
+harry whittington (author) AND imprint (trade name) 10400
+strange but true AND charter communications 482000
+strange but true AND avenue of the americas 2370000
+strange but true AND hippodrome building 43400
+strange but true AND cent (currency) 555000
+strange but true AND william barton (writer) 508000
+strange but true AND margaret howe (author) 197000
+strange but true AND dos-à-dos binding#tête-bêche 1
+strange but true AND peter nicholls (writer) 110000
+strange but true AND charter company 748000
+strange but true AND book 10700000
+strange but true AND united states 44700000
+strange but true AND norman saunders 263000
+strange but true AND novelizations 45900
+strange but true AND são tomé and príncipe 2130000
+strange but true AND equatorial guinea 128000
+strange but true AND cape verde 454000
+strange but true AND latium 11400
+strange but true AND goa 310000
+strange but true AND mozambique 247000
+strange but true AND macau 149000
+strange but true AND são paulo 974000
+strange but true AND daman, daman and diu 42000
+strange but true AND lope de vega 51700
+strange but true AND diu, india 52900
+strange but true AND olavo bilac 3930
+strange but true AND portugal 1390000
+strange but true AND brazil 2620000
+strange but true AND guinea-bissau 98200
+strange but true AND miguel de cervantes 104000
+strange but true AND museum of the portuguese language 629000
+strange but true AND western hemisphere 567000
+strange but true AND luís vaz de camões 18700
+strange but true AND east timor 127000
+strange but true AND southern hemisphere 494000
+strange but true AND romance language 4350000
+strange but true AND angola 292000
+strange but true AND imprint (trade name) 415000
+charter communications AND avenue of the americas 1100000
+charter communications AND hippodrome building 20100
+charter communications AND cent (currency) 316000
+charter communications AND william barton (writer) 210000
+charter communications AND margaret howe (author) 69000
+charter communications AND dos-à-dos binding#tête-bêche 0
+charter communications AND peter nicholls (writer) 49700
+charter communications AND charter company 7190000
+charter communications AND book 3360000
+charter communications AND united states 5640000
+charter communications AND norman saunders 93700
+charter communications AND novelizations 4040
+charter communications AND são tomé and príncipe 327000
+charter communications AND equatorial guinea 108000
+charter communications AND cape verde 137000
+charter communications AND latium 4280
+charter communications AND goa 95200
+charter communications AND mozambique 268000
+charter communications AND macau 87700
+charter communications AND são paulo 186000
+charter communications AND daman, daman and diu 14100
+charter communications AND lope de vega 10400
+charter communications AND diu, india 33200
+charter communications AND olavo bilac 1110
+charter communications AND portugal 733000
+charter communications AND brazil 949000
+charter communications AND guinea-bissau 76200
+charter communications AND miguel de cervantes 38000
+charter communications AND museum of the portuguese language 278000
+charter communications AND western hemisphere 137000
+charter communications AND luís vaz de camões 4980
+charter communications AND east timor 102000
+charter communications AND southern hemisphere 110000
+charter communications AND romance language 247000
+charter communications AND angola 245000
+charter communications AND imprint (trade name) 114000
+avenue of the americas AND hippodrome building 57200
+avenue of the americas AND cent (currency) 672000
+avenue of the americas AND william barton (writer) 866000
+avenue of the americas AND margaret howe (author) 287000
+avenue of the americas AND dos-à-dos binding#tête-bêche 1
+avenue of the americas AND peter nicholls (writer) 203000
+avenue of the americas AND charter company 2060000
+avenue of the americas AND book 11300000
+avenue of the americas AND united states 24300000
+avenue of the americas AND norman saunders 344000
+avenue of the americas AND novelizations 12900
+avenue of the americas AND são tomé and príncipe 7740000
+avenue of the americas AND equatorial guinea 1320000
+avenue of the americas AND cape verde 1450000
+avenue of the americas AND latium 14600
+avenue of the americas AND goa 328000
+avenue of the americas AND mozambique 1030000
+avenue of the americas AND macau 897000
+avenue of the americas AND são paulo 1150000
+avenue of the americas AND daman, daman and diu 34000
+avenue of the americas AND lope de vega 95400
+avenue of the americas AND diu, india 58400
+avenue of the americas AND olavo bilac 12600
+avenue of the americas AND portugal 3800000
+avenue of the americas AND brazil 6680000
+avenue of the americas AND guinea-bissau 1270000
+avenue of the americas AND miguel de cervantes 497000
+avenue of the americas AND museum of the portuguese language 938000
+avenue of the americas AND western hemisphere 560000
+avenue of the americas AND luís vaz de camões 23500
+avenue of the americas AND east timor 756000
+avenue of the americas AND southern hemisphere 361000
+avenue of the americas AND romance language 1200000
+avenue of the americas AND angola 1290000
+avenue of the americas AND imprint (trade name) 456000
+hippodrome building AND cent (currency) 22200
+hippodrome building AND william barton (writer) 21300
+hippodrome building AND margaret howe (author) 14600
+hippodrome building AND dos-à-dos binding#tête-bêche 0
+hippodrome building AND peter nicholls (writer) 12100
+hippodrome building AND charter company 28600
+hippodrome building AND book 199000
+hippodrome building AND united states 105000
+hippodrome building AND norman saunders 14200
+hippodrome building AND novelizations 1280
+hippodrome building AND são tomé and príncipe 23100
+hippodrome building AND equatorial guinea 15600
+hippodrome building AND cape verde 23100
+hippodrome building AND latium 2450
+hippodrome building AND goa 13000
+hippodrome building AND mozambique 19100
+hippodrome building AND macau 17800
+hippodrome building AND são paulo 25500
+hippodrome building AND daman, daman and diu 646
+hippodrome building AND lope de vega 2160
+hippodrome building AND diu, india 9970
+hippodrome building AND olavo bilac 8
+hippodrome building AND portugal 56800
+hippodrome building AND brazil 44900
+hippodrome building AND guinea-bissau 11100
+hippodrome building AND miguel de cervantes 12300
+hippodrome building AND museum of the portuguese language 34300
+hippodrome building AND western hemisphere 8580
+hippodrome building AND luís vaz de camões 308
+hippodrome building AND east timor 8670
+hippodrome building AND southern hemisphere 7250
+hippodrome building AND romance language 47200
+hippodrome building AND angola 21100
+hippodrome building AND imprint (trade name) 9260
+cent (currency) AND william barton (writer) 81000
+cent (currency) AND margaret howe (author) 45700
+cent (currency) AND dos-à-dos binding#tête-bêche 1
+cent (currency) AND peter nicholls (writer) 30600
+cent (currency) AND charter company 425000
+cent (currency) AND book 3150000
+cent (currency) AND united states 3360000
+cent (currency) AND norman saunders 53600
+cent (currency) AND novelizations 8280
+cent (currency) AND são tomé and príncipe 662000
+cent (currency) AND equatorial guinea 106000
+cent (currency) AND cape verde 224000
+cent (currency) AND latium 4290
+cent (currency) AND goa 116000
+cent (currency) AND mozambique 216000
+cent (currency) AND macau 214000
+cent (currency) AND são paulo 138000
+cent (currency) AND daman, daman and diu 39100
+cent (currency) AND lope de vega 29000
+cent (currency) AND diu, india 28100
+cent (currency) AND olavo bilac 2690
+cent (currency) AND portugal 712000
+cent (currency) AND brazil 807000
+cent (currency) AND guinea-bissau 84700
+cent (currency) AND miguel de cervantes 27700
+cent (currency) AND museum of the portuguese language 240000
+cent (currency) AND western hemisphere 102000
+cent (currency) AND luís vaz de camões 3530
+cent (currency) AND east timor 82400
+cent (currency) AND southern hemisphere 102000
+cent (currency) AND romance language 265000
+cent (currency) AND angola 259000
+cent (currency) AND imprint (trade name) 81500
+william barton (writer) AND margaret howe (author) 89800
+william barton (writer) AND dos-à-dos binding#tête-bêche 0
+william barton (writer) AND peter nicholls (writer) 117000
+william barton (writer) AND charter company 208000
+william barton (writer) AND book 1740000
+william barton (writer) AND united states 1180000
+william barton (writer) AND norman saunders 244000
+william barton (writer) AND novelizations 306000
+william barton (writer) AND são tomé and príncipe 59800
+william barton (writer) AND equatorial guinea 27100
+william barton (writer) AND cape verde 86900
+william barton (writer) AND latium 2780
+william barton (writer) AND goa 34700
+william barton (writer) AND mozambique 46100
+william barton (writer) AND macau 34100
+william barton (writer) AND são paulo 293000
+william barton (writer) AND daman, daman and diu 1920
+william barton (writer) AND lope de vega 13000
+william barton (writer) AND diu, india 15100
+william barton (writer) AND olavo bilac 1710
+william barton (writer) AND portugal 386000
+william barton (writer) AND brazil 570000
+william barton (writer) AND guinea-bissau 18400
+william barton (writer) AND miguel de cervantes 61900
+william barton (writer) AND museum of the portuguese language 90800
+william barton (writer) AND western hemisphere 88000
+william barton (writer) AND luís vaz de camões 2160
+william barton (writer) AND east timor 26800
+william barton (writer) AND southern hemisphere 74700
+william barton (writer) AND romance language 406000
+william barton (writer) AND angola 52900
+william barton (writer) AND imprint (trade name) 51100
+margaret howe (author) AND dos-à-dos binding#tête-bêche 91
+margaret howe (author) AND peter nicholls (writer) 38900
+margaret howe (author) AND charter company 78700
+margaret howe (author) AND book 368000
+margaret howe (author) AND united states 289000
+margaret howe (author) AND norman saunders 82400
+margaret howe (author) AND novelizations 85300
+margaret howe (author) AND são tomé and príncipe 37500
+margaret howe (author) AND equatorial guinea 9250
+margaret howe (author) AND cape verde 28400
+margaret howe (author) AND latium 1550
+margaret howe (author) AND goa 12300
+margaret howe (author) AND mozambique 14000
+margaret howe (author) AND macau 8790
+margaret howe (author) AND são paulo 144000
+margaret howe (author) AND daman, daman and diu 1330
+margaret howe (author) AND lope de vega 9040
+margaret howe (author) AND diu, india 13200
+margaret howe (author) AND olavo bilac 1200
+margaret howe (author) AND portugal 83600
+margaret howe (author) AND brazil 92000
+margaret howe (author) AND guinea-bissau 7230
+margaret howe (author) AND miguel de cervantes 39100
+margaret howe (author) AND museum of the portuguese language 94300
+margaret howe (author) AND western hemisphere 67500
+margaret howe (author) AND luís vaz de camões 10500
+margaret howe (author) AND east timor 13800
+margaret howe (author) AND southern hemisphere 56500
+margaret howe (author) AND romance language 96400
+margaret howe (author) AND angola 20500
+margaret howe (author) AND imprint (trade name) 41800
+dos-à-dos binding#tête-bêche AND peter nicholls (writer) 0
+dos-à-dos binding#tête-bêche AND charter company 0
+dos-à-dos binding#tête-bêche AND book 0
+dos-à-dos binding#tête-bêche AND united states 0
+dos-à-dos binding#tête-bêche AND norman saunders 0
+dos-à-dos binding#tête-bêche AND novelizations 0
+dos-à-dos binding#tête-bêche AND são tomé and príncipe 0
+dos-à-dos binding#tête-bêche AND equatorial guinea 0
+dos-à-dos binding#tête-bêche AND cape verde 0
+dos-à-dos binding#tête-bêche AND latium 0
+dos-à-dos binding#tête-bêche AND goa 0
+dos-à-dos binding#tête-bêche AND mozambique 0
+dos-à-dos binding#tête-bêche AND macau 0
+dos-à-dos binding#tête-bêche AND são paulo 0
+dos-à-dos binding#tête-bêche AND daman, daman and diu 0
+dos-à-dos binding#tête-bêche AND lope de vega 0
+dos-à-dos binding#tête-bêche AND diu, india 0
+dos-à-dos binding#tête-bêche AND olavo bilac 0
+dos-à-dos binding#tête-bêche AND portugal 0
+dos-à-dos binding#tête-bêche AND brazil 0
+dos-à-dos binding#tête-bêche AND guinea-bissau 0
+dos-à-dos binding#tête-bêche AND miguel de cervantes 0
+dos-à-dos binding#tête-bêche AND museum of the portuguese language 0
+dos-à-dos binding#tête-bêche AND western hemisphere 0
+dos-à-dos binding#tête-bêche AND luís vaz de camões 0
+dos-à-dos binding#tête-bêche AND east timor 0
+dos-à-dos binding#tête-bêche AND southern hemisphere 0
+dos-à-dos binding#tête-bêche AND romance language 0
+dos-à-dos binding#tête-bêche AND angola 0
+dos-à-dos binding#tête-bêche AND imprint (trade name) 0
+peter nicholls (writer) AND charter company 59700
+peter nicholls (writer) AND book 363000
+peter nicholls (writer) AND united states 265000
+peter nicholls (writer) AND norman saunders 74200
+peter nicholls (writer) AND novelizations 68000
+peter nicholls (writer) AND são tomé and príncipe 25000
+peter nicholls (writer) AND equatorial guinea 19100
+peter nicholls (writer) AND cape verde 27500
+peter nicholls (writer) AND latium 897
+peter nicholls (writer) AND goa 11700
+peter nicholls (writer) AND mozambique 24800
+peter nicholls (writer) AND macau 11800
+peter nicholls (writer) AND são paulo 87500
+peter nicholls (writer) AND daman, daman and diu 756
+peter nicholls (writer) AND lope de vega 4800
+peter nicholls (writer) AND diu, india 9990
+peter nicholls (writer) AND olavo bilac 509
+peter nicholls (writer) AND portugal 89000
+peter nicholls (writer) AND brazil 109000
+peter nicholls (writer) AND guinea-bissau 7340
+peter nicholls (writer) AND miguel de cervantes 37000
+peter nicholls (writer) AND museum of the portuguese language 57600
+peter nicholls (writer) AND western hemisphere 34200
+peter nicholls (writer) AND luís vaz de camões 559
+peter nicholls (writer) AND east timor 11000
+peter nicholls (writer) AND southern hemisphere 31700
+peter nicholls (writer) AND romance language 82900
+peter nicholls (writer) AND angola 27100
+peter nicholls (writer) AND imprint (trade name) 25700
+charter company AND book 10400000
+charter company AND united states 8880000
+charter company AND norman saunders 202000
+charter company AND novelizations 6810
+charter company AND são tomé and príncipe 661000
+charter company AND equatorial guinea 281000
+charter company AND cape verde 453000
+charter company AND latium 6620
+charter company AND goa 274000
+charter company AND mozambique 553000
+charter company AND macau 304000
+charter company AND são paulo 502000
+charter company AND daman, daman and diu 326000
+charter company AND lope de vega 14200
+charter company AND diu, india 45300
+charter company AND olavo bilac 2160
+charter company AND portugal 1540000
+charter company AND brazil 1860000
+charter company AND guinea-bissau 209000
+charter company AND miguel de cervantes 43800
+charter company AND museum of the portuguese language 361000
+charter company AND western hemisphere 147000
+charter company AND luís vaz de camões 5570
+charter company AND east timor 234000
+charter company AND southern hemisphere 183000
+charter company AND romance language 344000
+charter company AND angola 630000
+charter company AND imprint (trade name) 216000
+book AND united states 228000000
+book AND norman saunders 858000
+book AND novelizations 36400
+book AND são tomé and príncipe 7180000
+book AND equatorial guinea 9060000
+book AND cape verde 9900000
+book AND latium 118000
+book AND goa 10400000
+book AND mozambique 10300000
+book AND macau 9510000
+book AND são paulo 10800000
+book AND daman, daman and diu 1120000
+book AND lope de vega 337000
+book AND diu, india 1380000
+book AND olavo bilac 45100
+book AND portugal 33800000
+book AND brazil 42000000
+book AND guinea-bissau 8590000
+book AND miguel de cervantes 1220000
+book AND museum of the portuguese language 2570000
+book AND western hemisphere 2160000
+book AND luís vaz de camões 39900
+book AND east timor 5680000
+book AND southern hemisphere 2440000
+book AND romance language 20100000
+book AND angola 9850000
+book AND imprint (trade name) 1490000
+united states AND norman saunders 645000
+united states AND novelizations 15300
+united states AND são tomé and príncipe 17000000
+united states AND equatorial guinea 19100000
+united states AND cape verde 24600000
+united states AND latium 72400
+united states AND goa 9560000
+united states AND mozambique 18200000
+united states AND macau 16300000
+united states AND são paulo 4450000
+united states AND daman, daman and diu 1430000
+united states AND lope de vega 85500
+united states AND diu, india 792000
+united states AND olavo bilac 10200
+united states AND portugal 66600000
+united states AND brazil 77000000
+united states AND guinea-bissau 20000000
+united states AND miguel de cervantes 470000
+united states AND museum of the portuguese language 1890000
+united states AND western hemisphere 2650000
+united states AND luís vaz de camões 21400
+united states AND east timor 11400000
+united states AND southern hemisphere 2120000
+united states AND romance language 77900000
+united states AND angola 21800000
+united states AND imprint (trade name) 926000
+norman saunders AND novelizations 4150
+norman saunders AND são tomé and príncipe 59600
+norman saunders AND equatorial guinea 27600
+norman saunders AND cape verde 89000
+norman saunders AND latium 2780
+norman saunders AND goa 23500
+norman saunders AND mozambique 55100
+norman saunders AND macau 19600
+norman saunders AND são paulo 150000
+norman saunders AND daman, daman and diu 1720
+norman saunders AND lope de vega 24100
+norman saunders AND diu, india 13500
+norman saunders AND olavo bilac 8940
+norman saunders AND portugal 298000
+norman saunders AND brazil 271000
+norman saunders AND guinea-bissau 23200
+norman saunders AND miguel de cervantes 82000
+norman saunders AND museum of the portuguese language 76200
+norman saunders AND western hemisphere 51100
+norman saunders AND luís vaz de camões 11600
+norman saunders AND east timor 23500
+norman saunders AND southern hemisphere 43000
+norman saunders AND romance language 133000
+norman saunders AND angola 61900
+norman saunders AND imprint (trade name) 34800
+novelizations AND são tomé and príncipe 1840000
+novelizations AND equatorial guinea 1810
+novelizations AND cape verde 2550
+novelizations AND latium 6030
+novelizations AND goa 2900
+novelizations AND mozambique 2370
+novelizations AND macau 2650
+novelizations AND são paulo 1190000
+novelizations AND daman, daman and diu 6490
+novelizations AND lope de vega 22800
+novelizations AND diu, india 297
+novelizations AND olavo bilac 1930
+novelizations AND portugal 1550
+novelizations AND brazil 2270
+novelizations AND guinea-bissau 1360
+novelizations AND miguel de cervantes 2660
+novelizations AND museum of the portuguese language 7850
+novelizations AND western hemisphere 3920
+novelizations AND luís vaz de camões 3000
+novelizations AND east timor 1260
+novelizations AND southern hemisphere 3150
+novelizations AND romance language 53800
+novelizations AND angola 2990
+novelizations AND imprint (trade name) 5670
+são tomé and príncipe AND equatorial guinea 19600000
+são tomé and príncipe AND cape verde 19000000
+são tomé and príncipe AND latium 513000
+são tomé and príncipe AND goa 836000
+são tomé and príncipe AND mozambique 19700000
+são tomé and príncipe AND macau 21100000
+são tomé and príncipe AND são paulo 2820000
+são tomé and príncipe AND daman, daman and diu 101000
+são tomé and príncipe AND lope de vega 392000
+são tomé and príncipe AND diu, india 312000
+são tomé and príncipe AND olavo bilac 28800
+são tomé and príncipe AND portugal 21300000
+são tomé and príncipe AND brazil 19300000
+são tomé and príncipe AND guinea-bissau 17800000
+são tomé and príncipe AND miguel de cervantes 352000
+são tomé and príncipe AND museum of the portuguese language 1930000
+são tomé and príncipe AND western hemisphere 86600
+são tomé and príncipe AND luís vaz de camões 48600
+são tomé and príncipe AND east timor 11000000
+são tomé and príncipe AND southern hemisphere 77100
+são tomé and príncipe AND romance language 1950000
+são tomé and príncipe AND angola 19100000
+são tomé and príncipe AND imprint (trade name) 988000
+equatorial guinea AND cape verde 17000000
+equatorial guinea AND latium 10300
+equatorial guinea AND goa 614000
+equatorial guinea AND mozambique 23200000
+equatorial guinea AND macau 11600000
+equatorial guinea AND são paulo 663000
+equatorial guinea AND daman, daman and diu 92000
+equatorial guinea AND lope de vega 21000
+equatorial guinea AND diu, india 149000
+equatorial guinea AND olavo bilac 1210
+equatorial guinea AND portugal 28400000
+equatorial guinea AND brazil 23800000
+equatorial guinea AND guinea-bissau 23200000
+equatorial guinea AND miguel de cervantes 39900
+equatorial guinea AND museum of the portuguese language 1170000
+equatorial guinea AND western hemisphere 97000
+equatorial guinea AND luís vaz de camões 1360
+equatorial guinea AND east timor 10300000
+equatorial guinea AND southern hemisphere 91300
+equatorial guinea AND romance language 1690000
+equatorial guinea AND angola 22700000
+equatorial guinea AND imprint (trade name) 50700
+cape verde AND latium 39900
+cape verde AND goa 783000
+cape verde AND mozambique 21900000
+cape verde AND macau 12400000
+cape verde AND são paulo 1980000
+cape verde AND daman, daman and diu 106000
+cape verde AND lope de vega 141000
+cape verde AND diu, india 282000
+cape verde AND olavo bilac 41700
+cape verde AND portugal 18500000
+cape verde AND brazil 18100000
+cape verde AND guinea-bissau 16200000
+cape verde AND miguel de cervantes 429000
+cape verde AND museum of the portuguese language 1350000
+cape verde AND western hemisphere 124000
+cape verde AND luís vaz de camões 48300
+cape verde AND east timor 10500000
+cape verde AND southern hemisphere 94100
+cape verde AND romance language 1630000
+cape verde AND angola 24700000
+cape verde AND imprint (trade name) 54000
+latium AND goa 20600
+latium AND mozambique 15000
+latium AND macau 13300
+latium AND são paulo 33900
+latium AND daman, daman and diu 6100
+latium AND lope de vega 12300
+latium AND diu, india 4810
+latium AND olavo bilac 1380
+latium AND portugal 141000
+latium AND brazil 34200
+latium AND guinea-bissau 15000
+latium AND miguel de cervantes 3100
+latium AND museum of the portuguese language 10500
+latium AND western hemisphere 6270
+latium AND luís vaz de camões 17900
+latium AND east timor 10600
+latium AND southern hemisphere 5450
+latium AND romance language 15200
+latium AND angola 36200
+latium AND imprint (trade name) 4340
+goa AND mozambique 1020000
+goa AND macau 1030000
+goa AND são paulo 734000
+goa AND daman, daman and diu 2780000
+goa AND lope de vega 42300
+goa AND diu, india 2770000
+goa AND olavo bilac 4390
+goa AND portugal 3050000
+goa AND brazil 2610000
+goa AND guinea-bissau 718000
+goa AND miguel de cervantes 63800
+goa AND museum of the portuguese language 76700
+goa AND western hemisphere 46000
+goa AND luís vaz de camões 18300
+goa AND east timor 545000
+goa AND southern hemisphere 48200
+goa AND romance language 736000
+goa AND angola 1090000
+goa AND imprint (trade name) 25100
+mozambique AND macau 12900000
+mozambique AND são paulo 1250000
+mozambique AND daman, daman and diu 212000
+mozambique AND lope de vega 37200
+mozambique AND diu, india 254000
+mozambique AND olavo bilac 12200
+mozambique AND portugal 27400000
+mozambique AND brazil 27700000
+mozambique AND guinea-bissau 24200000
+mozambique AND miguel de cervantes 87500
+mozambique AND museum of the portuguese language 132000
+mozambique AND western hemisphere 132000
+mozambique AND luís vaz de camões 16800
+mozambique AND east timor 11100000
+mozambique AND southern hemisphere 121000
+mozambique AND romance language 1590000
+mozambique AND angola 25900000
+mozambique AND imprint (trade name) 51900
+macau AND são paulo 1480000
+macau AND daman, daman and diu 115000
+macau AND lope de vega 15200
+macau AND diu, india 201000
+macau AND olavo bilac 6470
+macau AND portugal 17200000
+macau AND brazil 16900000
+macau AND guinea-bissau 12500000
+macau AND miguel de cervantes 30000
+macau AND museum of the portuguese language 93100
+macau AND western hemisphere 45700
+macau AND luís vaz de camões 23200
+macau AND east timor 8830000
+macau AND southern hemisphere 44900
+macau AND romance language 327000
+macau AND angola 13300000
+macau AND imprint (trade name) 25400
+são paulo AND daman, daman and diu 21500
+são paulo AND lope de vega 347000
+são paulo AND diu, india 84500
+são paulo AND olavo bilac 249000
+são paulo AND portugal 10400000
+são paulo AND brazil 12200000
+são paulo AND guinea-bissau 689000
+são paulo AND miguel de cervantes 430000
+são paulo AND museum of the portuguese language 485000
+são paulo AND western hemisphere 212000
+são paulo AND luís vaz de camões 106000
+são paulo AND east timor 566000
+são paulo AND southern hemisphere 166000
+são paulo AND romance language 509000
+são paulo AND angola 3590000
+são paulo AND imprint (trade name) 81900
+daman, daman and diu AND lope de vega 1060
+daman, daman and diu AND diu, india 3010000
+daman, daman and diu AND olavo bilac 390
+daman, daman and diu AND portugal 401000
+daman, daman and diu AND brazil 325000
+daman, daman and diu AND guinea-bissau 137000
+daman, daman and diu AND miguel de cervantes 1830
+daman, daman and diu AND museum of the portuguese language 54800
+daman, daman and diu AND western hemisphere 8660
+daman, daman and diu AND luís vaz de camões 0
+daman, daman and diu AND east timor 116000
+daman, daman and diu AND southern hemisphere 8000
+daman, daman and diu AND romance language 64800
+daman, daman and diu AND angola 187000
+daman, daman and diu AND imprint (trade name) 5840
+lope de vega AND diu, india 6090
+lope de vega AND olavo bilac 11800
+lope de vega AND portugal 266000
+lope de vega AND brazil 79800
+lope de vega AND guinea-bissau 29500
+lope de vega AND miguel de cervantes 349000
+lope de vega AND museum of the portuguese language 37800
+lope de vega AND western hemisphere 8300
+lope de vega AND luís vaz de camões 23700
+lope de vega AND east timor 23300
+lope de vega AND southern hemisphere 6890
+lope de vega AND romance language 45600
+lope de vega AND angola 48400
+lope de vega AND imprint (trade name) 6840
+diu, india AND olavo bilac 1090
+diu, india AND portugal 400000
+diu, india AND brazil 435000
+diu, india AND guinea-bissau 160000
+diu, india AND miguel de cervantes 17700
+diu, india AND museum of the portuguese language 39400
+diu, india AND western hemisphere 10100
+diu, india AND luís vaz de camões 11600
+diu, india AND east timor 92000
+diu, india AND southern hemisphere 8220
+diu, india AND romance language 35300
+diu, india AND angola 253000
+diu, india AND imprint (trade name) 9640
+olavo bilac AND portugal 72500
+olavo bilac AND brazil 52700
+olavo bilac AND guinea-bissau 9600
+olavo bilac AND miguel de cervantes 21600
+olavo bilac AND museum of the portuguese language 4810
+olavo bilac AND western hemisphere 665
+olavo bilac AND luís vaz de camões 31300
+olavo bilac AND east timor 1810
+olavo bilac AND southern hemisphere 469
+olavo bilac AND romance language 5290
+olavo bilac AND angola 23600
+olavo bilac AND imprint (trade name) 329
+portugal AND brazil 46300000
+portugal AND guinea-bissau 24100000
+portugal AND miguel de cervantes 787000
+portugal AND museum of the portuguese language 691000
+portugal AND western hemisphere 463000
+portugal AND luís vaz de camões 104000
+portugal AND east timor 10700000
+portugal AND southern hemisphere 460000
+portugal AND romance language 3320000
+portugal AND angola 35900000
+portugal AND imprint (trade name) 272000
+brazil AND guinea-bissau 23600000
+brazil AND miguel de cervantes 284000
+brazil AND museum of the portuguese language 647000
+brazil AND western hemisphere 897000
+brazil AND luís vaz de camões 116000
+brazil AND east timor 12100000
+brazil AND southern hemisphere 845000
+brazil AND romance language 4740000
+brazil AND angola 26000000
+brazil AND imprint (trade name) 303000
+guinea-bissau AND miguel de cervantes 58000
+guinea-bissau AND museum of the portuguese language 1140000
+guinea-bissau AND western hemisphere 49300
+guinea-bissau AND luís vaz de camões 22900
+guinea-bissau AND east timor 10700000
+guinea-bissau AND southern hemisphere 40300
+guinea-bissau AND romance language 1490000
+guinea-bissau AND angola 24600000
+guinea-bissau AND imprint (trade name) 37900
+miguel de cervantes AND museum of the portuguese language 63200
+miguel de cervantes AND western hemisphere 30500
+miguel de cervantes AND luís vaz de camões 22
+miguel de cervantes AND east timor 36300
+miguel de cervantes AND southern hemisphere 26400
+miguel de cervantes AND romance language 135000
+miguel de cervantes AND angola 141000
+miguel de cervantes AND imprint (trade name) 20200
+museum of the portuguese language AND western hemisphere 184000
+museum of the portuguese language AND luís vaz de camões 6040
+museum of the portuguese language AND east timor 1050000
+museum of the portuguese language AND southern hemisphere 130000
+museum of the portuguese language AND romance language 2010000
+museum of the portuguese language AND angola 195000
+museum of the portuguese language AND imprint (trade name) 99500
+western hemisphere AND luís vaz de camões 1130
+western hemisphere AND east timor 67800
+western hemisphere AND southern hemisphere 2940000
+western hemisphere AND romance language 329000
+western hemisphere AND angola 127000
+western hemisphere AND imprint (trade name) 75800
+luís vaz de camões AND east timor 6480
+luís vaz de camões AND southern hemisphere 1060
+luís vaz de camões AND romance language 9050
+luís vaz de camões AND angola 41800
+luís vaz de camões AND imprint (trade name) 1330
+east timor AND southern hemisphere 58600
+east timor AND romance language 270000
+east timor AND angola 12000000
+east timor AND imprint (trade name) 24800
+southern hemisphere AND romance language 268000
+southern hemisphere AND angola 123000
+southern hemisphere AND imprint (trade name) 61900
+romance language AND angola 1800000
+romance language AND imprint (trade name) 115000
+angola AND imprint (trade name) 54500
