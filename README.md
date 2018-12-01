@@ -1,5 +1,5 @@
 # distance_measure_work
-wikipedia articles : Contains Altenburg, Ace Books, Frank Bladin
+wikipedia articles : Contains Altenburg, Ace Books, Frank Bladin articles
 
 sample: the sample of ace_books containing the 
 
